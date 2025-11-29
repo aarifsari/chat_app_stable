@@ -1,0 +1,23 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+
+# Build outputs
+build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+
+# IDE / Editor
+.idea/
+.vscode/
+*.iml
+
+# Misc
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+
+# Web
+build/web/
