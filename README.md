@@ -1,10 +1,5 @@
 # Chat App – BIM493 Assignment 3
 
-## Prepared by
-Ahmet Arif Sarı - 47719948032
-Enis Çelik - 29014360702
-Furkan Çimili - 50776079090
-
 This is a simple real-time messaging application built with Flutter and Firebase
 for the BIM493 Mobile Programming I course.
 
